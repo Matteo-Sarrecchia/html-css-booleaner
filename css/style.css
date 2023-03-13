@@ -45,3 +45,20 @@ h1{
 .table-back{
     background-color: rgb(63, 197, 197);
 }
+
+
+/* FOOTER */
+
+#foto1{
+    background-image: url(../img/monitor.jpg);
+    color: white;
+    width: 312px;
+    height: 208px;
+}
+
+#foto2{
+    background-image: url(../img/graph.jpg);
+    color: white;
+    width: 312px;
+    height: 208px;
+}
